@@ -1,10 +1,6 @@
-# Team 111's 2013 Robot Code
+# Team 111's Prototype Robot Simulation and Base Code
 
-This repository contains the Team 111 2013 FRC codebase. This code is released under the BSD 2-clause license. A copy of this license is included in COPYING.
-
-Similar to Team 254, we also decided to switch to Java from C++ this year. Java is easier to teach, many students already had some instruction in school, and the students can grasp the concepts faster. Also the students and mentors could work on both Windows or Mac computers. 
-
-After the initial heartburn from Sqwuak's and Java ME's limitations, we feel the change was a success and will continue using Java in future years. I would recommend it for any team thinking about making the switch. However, they should understand how limited this version of Java really is. We lost about 2 weeks just trying to get basic functionality to compile and run because the compile/run time error messages are very cryptic. It took examining the WPI libraries design patterns and their use of this "Java" to understand how to recreate "simple" things like an unsynchronized List or a way to do a type-safe "enum". 
+This repository contains the Team 111 2013 fall drive base prototype and simulation code improvements code base. This code is released under the BSD 2-clause license. A copy of this license is included in COPYING.
 
 ## Intro
 
